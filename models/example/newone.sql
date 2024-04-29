@@ -1,1 +1,1 @@
-select * from mytestdb.mytestschema.mytable3
+select * from mytable2
