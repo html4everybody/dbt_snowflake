@@ -1,1 +1,1 @@
-select * from mytable3;
+select * from mytestdb.mytestschema.mytable3;
